@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body>
+  <div class="container">
+    <p>This is a sample paragraph that can be dynamically highlighted using the button below.</p>
+  </div>
+</body>
+</html>
